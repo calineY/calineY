@@ -1,14 +1,15 @@
-### Hi there, I'm Caline <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1>Hi there, I'm Caline<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a junior full-stack web developer.
+I'm a junior full-stack developer.
 
 
 - 🌱 I’m currently learning many technologies
 - 🎓 B.S. in Computer Science. GPA 3.9/4
+- 🚀 I’m open to new learning experiences
 - ⚡ Fun fact: I like traveling🛫, nature🌲, and solving problems🤔
 
 <div>
-  <h2>🧰 Languages, libraries, frameworks, databases and tools I'm learning until now:</h2><br>
+  <h2>🧰 Languages, libraries, frameworks, databases and tools I'm learning:</h2><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
