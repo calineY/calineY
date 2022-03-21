@@ -4,7 +4,7 @@ I'm a junior full-stack developer.
 
 
 - 🌱 I’m currently learning many technologies
-- 🎓 B.S. in Computer Science. GPA 3.9/4
+- 🎓 B.S. in Computer Science. GPA 3.96/4
 - 🚀 I’m open to new learning experiences
 - ⚡ Fun fact: I like traveling🛫, nature🌲, and solving problems🤔
 
@@ -22,7 +22,7 @@ I'm a junior full-stack developer.
     <a href="https://"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Laravel&color=red&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> 
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Flutter&color=green&style=for-the-badge&logo=flutter&logoColor=whitesmoke" alt="Flutter"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=React Native&color=green&style=for-the-badge&logo=reactnative&logoColor=whitesmoke" alt="React Native"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
     <a href="https://"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
