@@ -23,6 +23,7 @@ I'm a junior full-stack developer.
     <img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS">
     <img src="https://img.shields.io/static/v1?label=&message=Laravel&color=red&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> 
     <img src="https://img.shields.io/static/v1?label=&message=React Native&color=green&style=for-the-badge&logo=react&logoColor=whitesmoke" alt="React Native">
+    <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="Node.js">
     <br><br>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
