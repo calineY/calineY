@@ -3,7 +3,6 @@
 I'm a junior full-stack developer.
 
 
-- 🌱 I’m currently learning many technologies
 - 🎓 B.S. in Computer Science. GPA 3.96/4
 - 🚀 I’m open to new learning experiences
 - ⚡ Fun fact: I like traveling🛫, nature🌲, and solving problems🤔
